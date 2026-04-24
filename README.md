@@ -4,8 +4,8 @@
 ### AI Automation Engineer · Building Systems That Generate Leads & Save Time
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/minahilazeem)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=flat-square&logo=gmail)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-10B981?style=flat-square&logo=vercel)](https://gprm.itsvg.in)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=flat-square&logo=gmail)](mailto:minahilazeembscs@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-10B981?style=flat-square&logo=vercel)](https://minahil-portfolio.netlify.app/)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I'm an **AI Automation Engineer** who helps service businesses stop losing revenue to missed calls and manual tasks. I design end-to-end systems — from AI voice agents to intelligent lead pipelines — that work while you sleep.
+I'm an **AI Automation Engineer** who helps service businesses stop losing revenue to missed calls and manual tasks. I design end-to-end systems from AI voice agents to intelligent lead pipelines that work while you sleep.
 
 - 🔭 Currently building **AI voice agents** for HVAC, Plumbing & Roofing businesses
 - 🤝 Open to **freelance projects** and **long-term collaborations**
@@ -62,6 +62,6 @@ If you're a **business owner** losing leads to missed calls or repetitive tasks 
 
 <div align="center">
 
-**📩 [Reach out via LinkedIn](https://linkedin.com/in/minahilazeem) · [Email me directly](mailto:your@email.com)**
+**📩 [Reach out via LinkedIn](https://linkedin.com/in/minahilazeem) · [Email me directly](mailto:minahilazeembscs@gmail.com)**
 
 </div>
